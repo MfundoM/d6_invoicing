@@ -1,4 +1,4 @@
-# Developer Challenge - Invoicing (PHP + MySQL)
+# Developer Challenge - Invoicing
 
 This project implements a simple web app to capture invoices and store them in a MySQL database.
 
@@ -95,3 +95,4 @@ Document root:
 Then open the configured URL in your browser (e.g. your local vhost domain).
 
 ---
+
