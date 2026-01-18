@@ -2,8 +2,6 @@
 
 This project implements a simple web app to capture invoices and store them in a MySQL database.
 
-It is intentionally designed as a module that could live inside a bigger system.
-
 ---
 
 ## Tech Stack
@@ -95,4 +93,5 @@ Document root:
 Then open the configured URL in your browser (e.g. your local vhost domain).
 
 ---
+
 
